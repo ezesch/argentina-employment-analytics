@@ -1,0 +1,19 @@
+# Variables de entorno
+.env
+!.env.example
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+venv/
+.venv/
+venv_test/
+
+# Archivos temporales de sistema
+.DS_Store
+Thumbs.db
+
+# Datos pesados / archivos fuente
+data_raw/
